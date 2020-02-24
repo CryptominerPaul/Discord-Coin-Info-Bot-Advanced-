@@ -288,7 +288,7 @@ NOTE 2: Feel free to contact me on discord Cryptominer#8245 for adding supported
 
 # <a name = "image-examples"></a> Image examples
 
-<img src="https://cdn.discordapp.com/attachments/519344470794305546/680275357684989957/unknown.png" /> 
+<img src="https://cdn.discordapp.com/attachments/519344470794305546/681386707064717322/unknown.png" /> 
 <img src="https://cdn.discordapp.com/attachments/519344470794305546/681373695817678877/unknown.png" /> 
 <img src="https://cdn.discordapp.com/attachments/519344470794305546/681373911710957581/unknown.png" /> 
 <img src="https://cdn.discordapp.com/attachments/519344470794305546/681374356668153866/unknown.png" />
