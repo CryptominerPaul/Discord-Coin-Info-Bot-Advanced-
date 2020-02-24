@@ -1,7 +1,7 @@
 # Discord-Coin-Info-Bot (Advanced)
 Coin-Info-Bot that post Exchange Pricing POW,POS, &amp; MN Tier-lvl-3 Stats, and Expected Earnings
 
-- A discord bot made for ZEON Coin, Supports 3 Tier Masternode, it can be easily adapted for any other currency.
+- A discord bot made for ZEON Coin, Supports Tier 3 Masternode, it can be easily adapted for any other currency.
 
 # Index
 
