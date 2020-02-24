@@ -1943,7 +1943,7 @@ class BotCommand {
                     "**Description:** A simple bot for " + conf.coin + " to check the current status of the currency in many ways, use **%help** to see these ways\n" +
                     (conf.coin in donate ? "**" + conf.coin + " Donations (To Cryptominer):** `" + donate[conf.coin] + "`\n" : "") +
                     "**BTC Donations (to Cryptominer):** `" + donate.BTC + "`\n" +
-                    "**BTC Donations (to PubFred):** `16wfHjVqr2z4x4o7S21tpZSZJuLRNy9RFt` \n ---> _**Pubfred Thank You 4 All Your  Help!!!**_ <--- " + "\n" +
+                    "**BTC Donations (to PubFred):** `3AkgDDpcN13zjv5ZgduxLqSVf1LS8D147N` \n ---> _**Pubfred Thank You 4 All Your  Help!!!**_ <--- " + "\n" +
                     "**BTC Donations (to Original Author):** `3F6J19DmD5jowwwQbE9zxXoguGPVR716a7`"
             }
         });
