@@ -82,6 +82,7 @@ function start_monitor() {
         const refresh_monitor = async () => {
             embeds = [];
             await cmd.price();
+	    await cmd.stats();
             await cmd.stats1();
             await cmd.stats2();
             await cmd.stats3();		
